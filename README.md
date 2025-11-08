@@ -23,3 +23,37 @@ Code to generate the synthesis and analysis of a novel element 119 a.k.a unemeni
 **One-click run**  
 ```bash
 open https://ksaad20.github.io/element-119
+
+Primary Data Sources:
+
+AME2020 atomic mass evaluation [1,8]
+
+NUBASE2020 nuclear properties [2,9]
+
+JINA-CEE astrophysics database [7]
+
+Theoretical Models:
+
+FRDM-2012 mass model [3]
+
+Skyrme-HFB mass formulas [4]
+
+Relativistic mean-field models [12]
+
+Computational Tools:
+
+DIRAC relativistic quantum chemistry [6]
+
+SHAP interpretable AI [5]
+
+Superheavy Element Context:
+
+Experimental synthesis reviews [10,11]
+
+Periodic table predictions [13]
+
+This Work:
+
+Code repository [14]
+
+Colab notebook [15]
